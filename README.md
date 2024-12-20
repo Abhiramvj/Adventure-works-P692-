@@ -1,2 +1,4 @@
 # Adventure-works-P692-
-Create a sales analysis on company performance 
+The AdventureWorks project focused on analyzing sales data to assess company performance and growth over time. The team began by cleaning and transforming datasets, modeling relationships between them, and standardizing formats to ensure accuracy and relevance. Using MS Excel, Tableau, and Power BI, the team created interactive dashboards that visualized key performance indicators (KPIs) such as sales growth, customer retention, and profitability
+     Each review phase contributed to refining data models, improving visual clarity, and enhancing insights, culminating in the final review where polished dashboards were presented. Key highlights included a 3% increase in profits and a 4% improvement in customer retention, demonstrating the company’s strong performance and industry leadership. The project showcased the team's ability to process, analyze, and visualize data effectively, enabling data-driven decision-making for stakeholders.
+
